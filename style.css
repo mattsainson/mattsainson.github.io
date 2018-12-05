@@ -1,3 +1,12 @@
 h1 {
 background-color: aquamarine;
 }
+
+li {
+    display: inline;
+    background-color: brown;
+    color: azure;
+    padding: 10px;
+    margin: 10px;
+    
+}
